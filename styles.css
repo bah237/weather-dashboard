@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .weather-info {
+    display: none;
+    margin-top: 20px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  h1 {
+    font-size: 24px;
+  }
+  
+  #temperature, #condition {
+    font-size: 18px;
+  }
+  
+  
